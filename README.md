@@ -4,10 +4,10 @@
 **Sou o João e estou fazendo o curso de Desenvolvimento de Sistemas do SENAI-SP**
 
 **APRENDENDO**
-JavaScript
-Java
-HTML
-Python.
+*JavaScript.
+*Java.
+*HTML.
+*Python.
 
 ;)
 
