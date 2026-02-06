@@ -9,7 +9,7 @@
 3. Phyton
 4. PowerShell
 5. Procuro colaborações com empresas, pergunte sobre meus projetos!
-
+ 
 
 
 
