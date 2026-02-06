@@ -2,7 +2,7 @@
 
 
 **Sou o João e estou fazendo o curso de Desenvolvimento de Sistemas do SENAI-SP**
-
+ 
 **APRENDENDO**
 1. JavaScript
 2. HTML
