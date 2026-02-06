@@ -6,4 +6,6 @@
 * Comendo
 * Trabalhando
 * Correndo
-* Lutando
+* ![HelloGIF](https://github.com/user-attachments/assets/6d83ced8-157e-4104-b35e-6fe9b0d524f8)
+
+* ![ISeeISeeGIF](https://github.com/user-attachments/assets/2a65b7a2-b94e-472a-841f-d4939497977f)
